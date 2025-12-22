@@ -18,6 +18,13 @@ Buttons in tkinter:
 2. I could also add drop down list for buttons in edditing as well:
 3. (lets ignore drop down list for now)
 
+VIDEO DEMO :-
+
+
+https://github.com/user-attachments/assets/e65f2f30-94f5-4ce6-aa67-1ea42a90f08d
+
+
+
 website used from now(i forgot to add this):
 1. https://www.geeksforgeeks.org/python/browse-upload-display-image-in-tkinter/
 2. https://www.geeksforgeeks.org/python/dropdown-menus-tkinter/
