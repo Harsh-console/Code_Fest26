@@ -37,5 +37,12 @@ for token in filtered_tokens:
         token_freq[token] = 1
 print(token_freq)
 
+with open('output_file.txt', "x", encoding = "utf-8") as f: # throws FileExistError if the file already exists
+    for token_key in token_freq:
+        f.write(token_key)
+        f.write(" : " + str(token_freq[token_key]) + '\n')
+
+f.close()
+
 input("Press Enter to exit...")
 
